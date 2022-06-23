@@ -18,5 +18,3 @@ function seleksiNilai(nilaiAwal, nilaiAkhir, dataArray){
 }
 
 seleksiNilai(5,20, [2,25,4,14,17,30,8])
-// seleksiNilai(25,2, [2,25,4,14,17,30,8])
-// seleksiNilai(5,20, [2,8])
